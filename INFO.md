@@ -7,4 +7,5 @@ git branch
 git log
 git init
 git clone
-
+git checkout
+git show
