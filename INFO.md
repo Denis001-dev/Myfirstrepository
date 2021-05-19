@@ -9,3 +9,5 @@ git init
 git clone
 git checkout
 git show
+git merge
+
